@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HarshKumar-coders/DSA/tree/master/0191-number-of-1-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/HarshKumar-coders/DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
 |  |
 | ------- |
