@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshKumar-coders/DSA/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/HarshKumar-coders/DSA/tree/master/0035-search-insert-position) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HarshKumar-coders/DSA/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/HarshKumar-coders/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
