@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshKumar-coders/DSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/HarshKumar-coders/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0541-reverse-string-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/HarshKumar-coders/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
