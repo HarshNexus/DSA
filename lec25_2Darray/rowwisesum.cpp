@@ -8,10 +8,10 @@ void rowsum(int arr[3][3]){
         sum=sum+arr[j][i];
     }
         cout<<sum<<" ";
-
     }
 }
 int main(){
     int arr[3][3]={{1,2,3},{4,5,6},{7,8,9}};
      rowsum(arr);
+
 }
