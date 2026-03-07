@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HarshKumar-coders/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshKumar-coders/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarshKumar-coders/DSA/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshKumar-coders/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshKumar-coders/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/HarshKumar-coders/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarshKumar-coders/DSA/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/HarshKumar-coders/DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshKumar-coders/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
