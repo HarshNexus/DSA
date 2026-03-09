@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshKumar-coders/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HarshKumar-coders/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshKumar-coders/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
