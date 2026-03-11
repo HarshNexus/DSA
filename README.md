@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HarshKumar-coders/DSA/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshKumar-coders/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/HarshKumar-coders/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HarshKumar-coders/DSA/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/HarshKumar-coders/DSA/tree/master/1009-complement-of-base-10-integer) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
