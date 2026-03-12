@@ -8,9 +8,9 @@ void solve(vector<int>& nums, vector<vector<int>>& ans, vector<int> output, int 
     }
 
     // include
-    output.push_back(nums[i]);
+    
+output.push_back(nums[i]);
     solve(nums, ans, output, i+1);
-
     // backtrack
     output.pop_back();
 
@@ -19,6 +19,8 @@ void solve(vector<int>& nums, vector<vector<int>>& ans, vector<int> output, int 
     while(index < nums.size() && nums[index] == nums[index-1]){
         index++;
     }
+
+    
 
     // exclude
     solve(nums, ans, output, index);
