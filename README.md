@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshKumar-coders/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HarshKumar-coders/DSA/tree/master/0204-count-primes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/HarshKumar-coders/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HarshKumar-coders/DSA/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/HarshKumar-coders/DSA/tree/master/1009-complement-of-base-10-integer) |
@@ -166,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
