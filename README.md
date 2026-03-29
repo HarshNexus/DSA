@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/HarshKumar-coders/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HarshKumar-coders/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarshKumar-coders/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HarshKumar-coders/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HarshKumar-coders/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HarshKumar-coders/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
