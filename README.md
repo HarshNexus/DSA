@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/HarshKumar-coders/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/HarshKumar-coders/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HarshKumar-coders/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HarshKumar-coders/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HarshKumar-coders/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/HarshKumar-coders/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/HarshKumar-coders/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshKumar-coders/DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/HarshKumar-coders/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshKumar-coders/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
