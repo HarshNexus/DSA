@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshKumar-coders/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HarshKumar-coders/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshKumar-coders/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshKumar-coders/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Enumeration
 |  |
 | ------- |
@@ -202,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/HarshKumar-coders/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshKumar-coders/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
