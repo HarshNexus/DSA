@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshKumar-coders/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshKumar-coders/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/HarshKumar-coders/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/HarshKumar-coders/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/HarshKumar-coders/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
