@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
+| [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
 | [0704-binary-search](https://github.com/HarshKumar-coders/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshKumar-coders/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarshKumar-coders/DSA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
 ## Enumeration
 |  |
 | ------- |
