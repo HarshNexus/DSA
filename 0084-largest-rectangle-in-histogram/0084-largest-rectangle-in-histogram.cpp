@@ -5,7 +5,7 @@ class Solution {
    stack<int> s;
    for(int i=n-1;i>=0;i--){
       while(!s.empty() && arr[s.top()]>=arr[i]) s.pop();
-      if(s.empty()) ans[i]=n;
+      if(s.empty()) ans[i]=-1;
       else ans[i]=s.top();
       s.push(i);
    }
