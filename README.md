@@ -213,15 +213,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshKumar-coders/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/HarshKumar-coders/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshKumar-coders/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HarshKumar-coders/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarshKumar-coders/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/HarshKumar-coders/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshKumar-coders/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HarshKumar-coders/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
