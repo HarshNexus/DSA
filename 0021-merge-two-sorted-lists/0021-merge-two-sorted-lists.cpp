@@ -9,39 +9,26 @@
  * };
  */
 class Solution {
-private:
-void solve(ListNode* first, ListNode* second){
-    while(first->next!=NULL && second!=NULL){
-        if(first->val<=second->val&&first->next->val>=second->val){
-       ListNode* curr=second->next;
-        second->next=first->next;
-        first->next=second;
-        first=second;
-        second=curr;
-          
-    }
-    else{
-        first=first->next;
-    }
-     
-    }
-    if(second!=NULL){
-        first->next=second;
-    }
-}
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-       if(list1==NULL) return list2;
-    if(list2==NULL) return list1;
-
-    if(list1->val<=list2->val){
-        solve(list1,list2);
-        return list1;
-
-    }
-    else{
-        solve(list2,list1);
-    return list2;
-    } 
+        ListNode*d=new ListNode(-1);
+        ListNode*t=d;
+        while(list1!=NULL && list2!=NULL){
+            if(list1->val<=list2->val){
+                t->next=list1;
+                list1=list1->next;
+            }
+            else{
+                t->next=list2;
+                list2=list2->next;
+            }
+            t=t->next;
+        }
+        if(list1 != NULL)
+            t->next = list1;
+        else
+            t->next = list2;
+        d=d->next;
+        return d;
     }
 };
