@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshKumar-coders/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HarshKumar-coders/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HarshKumar-coders/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshKumar-coders/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/HarshKumar-coders/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshKumar-coders/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarshKumar-coders/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshKumar-coders/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HarshKumar-coders/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
