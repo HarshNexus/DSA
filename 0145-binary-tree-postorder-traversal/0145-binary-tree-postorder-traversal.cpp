@@ -10,19 +10,17 @@
  * };
  */
 class Solution {
-    private:
-void pre(TreeNode* root,vector<int> &ans){
+vector<int> ans;
+void post(TreeNode* root){
     if(root==NULL) return ;
-    
-    pre(root->left,ans);
-    pre(root->right,ans);
+
+    post(root->left);
+    post(root->right);
     ans.push_back(root->val);
-    
 }
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        pre(root,ans);
+        post(root);
         return ans;
     }
 };
