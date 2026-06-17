@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshKumar-coders/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HarshKumar-coders/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/HarshKumar-coders/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshKumar-coders/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HarshKumar-coders/DSA/tree/master/1302-deepest-leaves-sum) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshKumar-coders/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HarshKumar-coders/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/HarshKumar-coders/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshKumar-coders/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0226-invert-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HarshKumar-coders/DSA/tree/master/1302-deepest-leaves-sum) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshKumar-coders/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Database
 |  |
 | ------- |
