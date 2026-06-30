@@ -10,7 +10,6 @@
  * };
  */
 class Solution {
-vector<int>ans;
 private:
 void inorder(TreeNode* root,vector<int> &a){
     if(root==NULL) return;
