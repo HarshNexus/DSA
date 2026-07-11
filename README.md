@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/HarshKumar-coders/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HarshKumar-coders/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshKumar-coders/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/HarshKumar-coders/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Tree
 |  |
 | ------- |
@@ -405,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
