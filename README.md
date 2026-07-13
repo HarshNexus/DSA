@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshKumar-coders/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/HarshKumar-coders/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshKumar-coders/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HarshKumar-coders/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0541-reverse-string-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshKumar-coders/DSA/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/HarshKumar-coders/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshKumar-coders/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HarshKumar-coders/DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HarshKumar-coders/DSA/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshKumar-coders/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshKumar-coders/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/HarshKumar-coders/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Tree
