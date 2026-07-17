@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/HarshKumar-coders/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HarshKumar-coders/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/HarshKumar-coders/DSA/tree/master/0704-binary-search) |
