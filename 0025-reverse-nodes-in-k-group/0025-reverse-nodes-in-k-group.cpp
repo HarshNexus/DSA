@@ -1,40 +1,63 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-       if(head==NULL || head->next==NULL) return head;
 
-       ListNode*curr=head;
-       ListNode* prev=NULL;
-      ListNode* n=NULL;
+        if (head == NULL || k == 1)
+            return head;
 
-      int cnt=0;
-      ListNode*temp=head;
-      while(temp!=NULL){
-        temp=temp->next;
-        cnt++;
-      }
+        ListNode* p = head;
+        ListNode* e = head;
 
-      if(cnt<k) return head;
-        int c=0;
-      while(curr!=NULL && c<k){
-        n=curr->next;
-        curr->next=prev;
-        prev=curr;
-        curr=n;
-        c++;
-      }
-      if(n!=NULL) head->next=reverseKGroup(n,k);
+        // Dummy node helps connect reversed groups
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
 
-      return prev;
+        ListNode* ph = dummy;
+
+        while (true) {
+
+            // Find the kth node / end of current group
+            e = p;
+
+            int cnt = 0;
+
+            while (cnt < k) {
+                if (e == NULL)
+                    return dummy->next;
+
+                e = e->next;
+                cnt++;
+            }
+
+            // p = first node of group
+            // e = node AFTER the group
+
+            ListNode* groupStart = p;
+            ListNode* prev = e;
+
+            // Reverse current group
+            while (p != e) {
+
+                ListNode* n = p->next;
+
+                p->next = prev;
+
+                prev = p;
+                p = n;
+            }
+
+            // prev is now the new head of reversed group
+
+            // Connect previous group to new head
+            ph->next = prev;
+
+            // groupStart became the tail
+            ph = groupStart;
+
+            // Move to next group
+            p = e;
+        }
+
+        return dummy->next;
     }
 };
