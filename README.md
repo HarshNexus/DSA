@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshKumar-coders/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/HarshKumar-coders/DSA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/HarshNexus/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/HarshKumar-coders/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/HarshKumar-coders/DSA/tree/master/0498-diagonal-traverse) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/HarshKumar-coders/DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/HarshKumar-coders/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshKumar-coders/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/HarshNexus/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/HarshKumar-coders/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/HarshKumar-coders/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshKumar-coders/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/HarshNexus/DSA/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshKumar-coders/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshKumar-coders/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HarshKumar-coders/DSA/tree/master/1302-deepest-leaves-sum) |
@@ -553,4 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshKumar-coders/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshKumar-coders/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/HarshNexus/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/HarshNexus/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
